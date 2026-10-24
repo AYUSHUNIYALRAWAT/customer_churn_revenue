@@ -1,0 +1,4 @@
+# No Python packages are currently required for this project.
+# The included analysis uses SQL, CSV/Excel files, and a Power BI report.
+# For the SQL scripts, use a PostgreSQL-compatible database.
+# To open the dashboard project, use Power BI Desktop.
